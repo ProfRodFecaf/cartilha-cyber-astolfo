@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/arthurspk/guiadecybersecurity">
-    <img src="./images/guia.png" alt="Guia de Cyber Security" width="160" height="160">
+    <H1>"Guia de Cyber Security"</H1>
   </a>
   <h1 align="center">Guia de Cyber Security</h1>
 </p>
