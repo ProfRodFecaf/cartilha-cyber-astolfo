@@ -1,6 +1,6 @@
 # 🛡️ Cartilha de CyberSecurity – Projeto Final
-> **Autor(a): [SEU NOME AQUI]**  
-> **Curso de Segurança da Informação – Professor Rodrigo Moreira**
+> **Autor(a): [Fabricio Conceição Silva]**  
+> **Curso de ENGENHARIA DA COMPUTAÇÃO – Professor Rodrigo Moreira**
 
 ---
 
