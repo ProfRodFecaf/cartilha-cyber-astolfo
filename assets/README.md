@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://github.com/arthurspk/guiadecybersecurity">
-    <H1>"Guia de Cyber Security"</H1>
-  </a>
+
   <h1 align="center">Guia de Cyber Security</h1>
 </p>
 
